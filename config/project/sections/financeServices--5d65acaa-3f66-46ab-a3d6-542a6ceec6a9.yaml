@@ -1,0 +1,11 @@
+enableVersioning: true
+handle: financeServices
+name: 'Finance Services'
+propagationMethod: all
+siteSettings:
+  e3d3b33f-0a67-4e33-a28f-494d59801cf0:
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: 'departments/finance/services/{slug}'
+type: channel

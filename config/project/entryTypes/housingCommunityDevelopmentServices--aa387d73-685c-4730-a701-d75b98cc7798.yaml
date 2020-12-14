@@ -1,0 +1,38 @@
+fieldLayouts:
+  1dfea4c4-9ef8-4138-aae2-c05eed8af50f:
+    tabs:
+      -
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\EntryTitleField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+handle: housingCommunityDevelopmentServices
+hasTitleField: true
+name: 'Housing & Community Development Services'
+section: 58c10bb8-3ff8-483d-8d75-10f8c09b3bd7
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

@@ -1,0 +1,14 @@
+enableVersioning: true
+handle: housingCommunityDevelopmentTopics
+name: 'Housing Topics'
+propagationMethod: all
+siteSettings:
+  e3d3b33f-0a67-4e33-a28f-494d59801cf0:
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: 'departments/housing-community-development/{slug}'
+structure:
+  maxLevels: null
+  uid: 70b64e07-2b8c-443a-9824-4f204c2a2b64
+type: structure

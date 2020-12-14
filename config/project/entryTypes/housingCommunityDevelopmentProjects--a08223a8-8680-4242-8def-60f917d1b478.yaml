@@ -1,0 +1,38 @@
+fieldLayouts:
+  12b8e5b5-0c3e-417a-9f5b-e49104ccf6f2:
+    tabs:
+      -
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\EntryTitleField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+handle: housingCommunityDevelopmentProjects
+hasTitleField: true
+name: 'Housing & Community Development Projects'
+section: c10f970e-d644-4360-95d0-cac62b670008
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

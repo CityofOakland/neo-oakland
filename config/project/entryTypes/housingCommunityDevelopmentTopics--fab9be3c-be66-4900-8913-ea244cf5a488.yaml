@@ -1,0 +1,38 @@
+fieldLayouts:
+  1818b47b-b4d2-41ba-abb4-1f0d3bf7242e:
+    tabs:
+      -
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\EntryTitleField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+handle: housingCommunityDevelopmentTopics
+hasTitleField: true
+name: 'Housing & Community Development Topics'
+section: e0926acd-977c-419d-8fa2-9653bd39b29b
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
